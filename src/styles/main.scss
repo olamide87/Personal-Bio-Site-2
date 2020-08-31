@@ -1,0 +1,86 @@
+@import "~bootstrap/scss/bootstrap";
+@import "~@fortawesome/fontawesome-free/css/all.min.css";
+@import '../javascripts/components/navbar/navbar.scss';
+@import '../javascripts/components/greeting/greeting.scss';
+@import '../javascripts/components/bio/bio.scss';
+@import '../javascripts/components/technologies/technologies.scss';
+@import '../javascripts/components/projects/projects.scss';
+@import '../javascripts/components/projectCard/projectCard.scss';
+@import './colors.scss';
+@import './fonts.scss';
+
+
+* {
+  margin: 0;
+  padding: 0;
+}
+
+/* BODY STYLES & SPACING */
+
+body {
+  color: white;
+  font-family: 'Raleway', sans-serif;
+  position: relative;
+
+  #greeting, #bioPage, #technologiesPage {
+    min-height: 100vh;
+    position: relative;
+  }
+
+  .center-content {
+    padding-left: 7.5%;
+    padding-right: 7.5%;
+  } 
+}
+
+/* BACKGROUND COLORS */
+
+#greeting, #technologiesPage, #cta {
+  background-color: $dark;
+}
+
+#bioPage, #projectsPage {
+  background-color: $green;
+}
+
+/* BUTTON STYLES */
+
+.my-button {
+  background-color: $dark;
+  color: white;
+  border: 3px solid $green;
+  border-radius: 3px;
+  text-transform: uppercase;
+  font-size: 0.75em;
+  padding: 10px 25px;
+  a {
+    text-decoration: none;
+    color: white;
+  }
+}
+
+.grow { 
+  transition: all .2s ease-in-out; 
+  }
+  .grow:hover { 
+  transform: scale(1.2); 
+  }
+
+/* CTA SECTION */ 
+
+#cta {
+  padding: 250px 0;
+  position: relative;
+  h3 {
+    font-size: 2.5em;
+    letter-spacing: .1em;
+  }
+  .contact-me-links img {
+    width: 2em;
+  }
+  .breaker {
+    border-top: 2px solid $green;
+    width: 40%;
+    margin: 0 auto;
+  }
+}

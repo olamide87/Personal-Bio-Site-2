@@ -1,0 +1,46 @@
+{
+	"projects1": {
+		"title": "sorting hat",
+		"screenshot": "http://gotoflashgames.com/files/file/033.jpg",
+		"description": "This is the best project",
+		"technologies Used": "HTML, CSS, Vanilla JavaScript, Version Control with Github",
+		"available": true,
+		"url": "http://github.com/olamide87/Sorting-Hat",
+		"githubUrl": "https://github.com/olamide87/Sorting-Hat"
+	},
+	"projects2": {
+		"title": "Bear-Watcher",
+		"screenshot": "http://gotoflashgames.com/files/file/033.jpg",
+		"description": "This project is used to show javascript modules in separate component files. We used JQuery for the first time when using click events. We created a simple bootstrap form that allowed us to input a bear name and url. When the submit button is clicked, those values are pushed into an object and then pushed into an array called Bears. There will be a click event that that triggers a dom string builder function. This will print boot strap cards with the bears picture and name in area will call the 'river'. technologies Used: 'HTML, CSS, Vanilla JavaScript, Version control with Github",
+		"available": false,
+		"url": "https://github.com/olamide87/Bear-Watcher",
+		"githubUrl": "https://github.com/olamide87/Bear-Watcher"
+	},
+	"projects3": {
+		"title": "winter-lizard",
+		"screenshot": "http://gotoflashgames.com/files/file/033.jpg",
+		"description": "This is the best project",
+		"technologies Used": "HTML, CSS, Vanilla JavaScript, Version Control with Github",
+		"available": true,
+		"url": "http://github.com/olamide87/Sorting-Hat",
+		"githubUrl": "https://github.com/olamide87/Sorting-Hat"
+	},
+	"projects4": {
+		"title": "sorting hat",
+		"screenshot": "http://gotoflashgames.com/files/file/033.jpg",
+		"description": "This is the best project",
+		"technologies Used": "HTML, CSS, Vanilla JavaScript, Version Control with Github",
+		"available": true,
+		"url": "http://github.com/olamide87/Sorting-Hat",
+		"githubUrl": "https://github.com/olamide87/Sorting-Hat"
+	},
+	"projects5": {
+		"title": "sorting hat",
+		"screenshot": "http://gotoflashgames.com/files/file/033.jpg",
+		"description": "This is the best project",
+		"technologies Used": "HTML, CSS, Vanilla JavaScript, Version Control with Github",
+		"available": true,
+		"url": "http://github.com/olamide87/Sorting-Hat",
+		"githubUrl": "https://github.com/olamide87/Sorting-Hat"
+	}
+}

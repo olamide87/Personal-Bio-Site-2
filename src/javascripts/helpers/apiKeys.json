@@ -1,0 +1,11 @@
+{
+  "firebaseKeys" : {
+ " apiKey": "AIzaSyCLpSe7j1zE_X06sIU7BVOKokQ_SNsPBGE",
+  "authDomain": "bio-site-18e55.firebaseapp.com",
+  "databaseURL": "https://bio-site-18e55.firebaseio.com",
+  "projectId": "bio-site-18e55",
+  "storageBucket": "bio-site-18e55.appspot.com",
+  "messagingSenderId": "1053414032628",
+  "appId": "1:1053414032628:web:16a351f0b7e9a8af068aa1"
+}
+}
