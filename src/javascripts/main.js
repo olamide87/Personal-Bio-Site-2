@@ -1,4 +1,9 @@
+import projects from './components/projects/projects';
 import 'bootstrap';
 import '../styles/main.scss';
 
-console.error('hi');
+const init = () => {
+  projects.printProjects();
+};
+
+init();

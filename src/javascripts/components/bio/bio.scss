@@ -1,0 +1,25 @@
+@import '../../../styles/colors.scss';
+
+#bioPage {
+  .bio-content {
+    position: absolute;
+    top: 20%;
+    display: block;
+  }
+  p {
+    font-size: 1.2em;
+  }
+  #bio-detail {
+    height: 50vh;
+    overflow: scroll;
+  }
+  #headshot-container {
+    display: flex;
+    justify-content: center;
+  }
+  .john-headshot {
+    border-radius: 50%;
+    align-self: center;
+    width: 60%;
+  }
+}

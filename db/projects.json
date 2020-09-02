@@ -1,46 +1,47 @@
 {
-	"projects1": {
-		"title": "sorting hat",
-		"screenshot": "http://gotoflashgames.com/files/file/033.jpg",
-		"description": "This is the best project",
-		"technologies Used": "HTML, CSS, Vanilla JavaScript, Version Control with Github",
-		"available": true,
-		"url": "http://github.com/olamide87/Sorting-Hat",
-		"githubUrl": "https://github.com/olamide87/Sorting-Hat"
-	},
-	"projects2": {
-		"title": "Bear-Watcher",
-		"screenshot": "http://gotoflashgames.com/files/file/033.jpg",
-		"description": "This project is used to show javascript modules in separate component files. We used JQuery for the first time when using click events. We created a simple bootstrap form that allowed us to input a bear name and url. When the submit button is clicked, those values are pushed into an object and then pushed into an array called Bears. There will be a click event that that triggers a dom string builder function. This will print boot strap cards with the bears picture and name in area will call the 'river'. technologies Used: 'HTML, CSS, Vanilla JavaScript, Version control with Github",
-		"available": false,
-		"url": "https://github.com/olamide87/Bear-Watcher",
-		"githubUrl": "https://github.com/olamide87/Bear-Watcher"
-	},
-	"projects3": {
-		"title": "winter-lizard",
-		"screenshot": "http://gotoflashgames.com/files/file/033.jpg",
-		"description": "This is the best project",
-		"technologies Used": "HTML, CSS, Vanilla JavaScript, Version Control with Github",
-		"available": true,
-		"url": "http://github.com/olamide87/Sorting-Hat",
-		"githubUrl": "https://github.com/olamide87/Sorting-Hat"
-	},
-	"projects4": {
-		"title": "sorting hat",
-		"screenshot": "http://gotoflashgames.com/files/file/033.jpg",
-		"description": "This is the best project",
-		"technologies Used": "HTML, CSS, Vanilla JavaScript, Version Control with Github",
-		"available": true,
-		"url": "http://github.com/olamide87/Sorting-Hat",
-		"githubUrl": "https://github.com/olamide87/Sorting-Hat"
-	},
-	"projects5": {
-		"title": "sorting hat",
-		"screenshot": "http://gotoflashgames.com/files/file/033.jpg",
-		"description": "This is the best project",
-		"technologies Used": "HTML, CSS, Vanilla JavaScript, Version Control with Github",
-		"available": true,
-		"url": "http://github.com/olamide87/Sorting-Hat",
-		"githubUrl": "https://github.com/olamide87/Sorting-Hat"
-	}
+	"project1" : {
+    "title": "React Sports Roster",
+    "screenshot": "https://i.imgur.com/3Q4Dsql.png",
+    "description": "This project was the first application I built using React. It displays a roster of players associated with an authenticated user and allows the user to perform full CRUD. Go Titans!",
+    "technologiesUsed": "React, JSX, Axios, Firebase",
+    "available": true,
+    "url": "https://sports-roster-19236.web.app",
+    "githubUrl": "https://github.com/olamide87/sportsroster-"
+  },
+	"project2" : {
+    "title": "Pinterest Clone",
+    "screenshot": "https://i.imgur.com/c7n1HSA.png",
+    "description": "I built this Pinterest clone for an NSS class assignment in order to practice making Axios API calls to Firebase. Users first login using their Google accounts and then can create, delete, and update boards with individual pins related to their interests.",
+    "technologiesUsed": "HTML, CSS, Bootstrap, Sass, JavaScript, jQuery, Axios, Firebase",
+    "available": true,
+    "url": "https://pinterest-clone-f7f66.web.app",
+    "githubUrl": "https://github.com/olamide87/PintrestClone"
+  },
+	"project3" : {
+    "title": "Chatty App",
+    "screenshot": "https://i.imgur.com/yrS7uKH.png",
+    "description": "The chatty app is a messaging app I contributed to for a group project at NSS. It allows a user to select who is sending a message, submit a new message, and perform specific actions such as liking and disliking messages, deleting messages, and selecting app styles.",
+    "technologiesUsed": "HTML, CSS, Bootstrap, Sass, JavaScript, jQuery",
+    "available": true,
+    "url": "https://chatty-app-a8817.web.app/",
+    "githubUrl": "https://github.com/nss-evening-cohort-12/chatty-beta-jungle-book"
+  },
+	"project4" : {
+    "title": "Tamagotchi",
+    "screenshot": "https://i.imgur.com/j5TiyRH.png",
+    "description": "Modelled after the 90's Toy, the Tamagotchi project was a NSS class assignment to practice modular development and styling using Sass. Users can alter the calculated scores when clicking buttons in each displayed quadrant.",
+    "technologiesUsed": "HTML, CSS, Sass, JavaScript, jQuery",
+    "available": true,
+    "url": "https://tamagotchi-2.web.app/",
+    "githubUrl": "https://github.com/olamide87/Tamagotchi2"
+  },
+	"project5" : {
+    "title": "Shark Attack",
+    "screenshot": "https://i.imgur.com/Ot51orN.png",
+    "description": "NSS homework project, which introduces the use of Javascript modules. A webpage that displays a grid of cards that show bears. Scientists and park rangers may use this to add and track bears that feed on salmon in a particular river",
+    "technologiesUsed": "HTML, CSS, Vanilla JavaScript, Version Control with Github",
+    "available": false,
+    "url": "https://shark-attack-c6ec7.web.app/",
+    "githubUrl": "https://github.com/olamide87/react-sharkattack-"
+  }
 }

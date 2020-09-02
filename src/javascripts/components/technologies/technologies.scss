@@ -1,0 +1,15 @@
+@import '../../../styles/colors.scss';
+@import '../../../styles/variables.scss';
+
+#technologiesPage {
+  .technologies-content {
+    position: absolute;
+    top: 12%;
+  }
+  h3 {
+    @extend %subheader
+  }
+  .tech-icons {
+  font-size: 4em;
+  }
+}
